@@ -1,0 +1,9 @@
+{
+	"name": "ckspotifydatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9eaa0563-a61f-488e-a600-998ed5b67735",
+		"tenantId": "f71718d8-74ff-42fe-8c62-11e81c75eb9d"
+	}
+}
